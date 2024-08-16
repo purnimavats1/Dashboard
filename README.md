@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dashboard Assignment
 
 ## Overview
@@ -15,4 +16,7 @@ This project involves creating a dynamic dashboard page with React, allowing use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dashboard-assignment.git
+   git clone https://github.com/purnimavats1/Dashboard.git
+=======
+# Dashboard
+>>>>>>> dab337c52c77e4d6e32eb3ef3fb8f13a1ceb15d0
